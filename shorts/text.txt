@@ -1,0 +1,17 @@
+Unnecesary meetings? here's your expensive bill.
+SOC
+My company works with a customer that has a factory 2.5h away from us.
+
+We've been working with them for years now, and we've been at the factory a couple of times at the start of the project.
+
+Everyone at the customer works at that factory, we're in charge of migrating paper trail to digital documents, for a company that has like 4 warehouses full of paper trail documents. The solution has been working for sometime.
+
+Last week, they asked us for a meeting. My boss said "ok, online, whenever you want", they said that they wanted an in-person one, that we should go to the factory. My boss didn't want to, so he said "If we go, I'll have to bill you for the time", they said yes.
+
+So Monday morning, my boss and the tech in charge of the process head down there. The meeting lasts exactly 15 minutes. It could have been solved in exactly 2 paragraphs in one email.
+
+Since they are there, tech asks the client to show them the paper trail warehouses and a tour of the factory, they happily comply.
+
+Overall, the meeting that could have been 15 minutes or two emails lasted 5 hours of travel plus 3 hours touring there, plus the food.
+
+Guess who's getting billed 16h of work and the food for a 15 minutes meeting.
