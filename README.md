@@ -30,7 +30,7 @@ To run the script, follow these steps:
 
 1. Ensure you have Python 3 installed on your system.
 2. Install the required dependencies by running `pip install moviepy pillow`.
-3. Place the script `parkour.py` in the same directory as your parkour video (`parkour.mp4`) and branding images (`subscribe.png`, `reddit.png`).
+3. Place the script `movie.py` in the same directory as your parkour video (`parkour.mp4`) and branding images (`subscribe.png`, `reddit.png`).
 4. Open a terminal or command prompt in the directory containing the script and run `python parkour.py`.
 
 The generated short video will be saved as `shorts.mp4`.
